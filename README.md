@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="www.linkedin.com/in/akash-jain-ds" target="_blank">Akash Jain</a>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username-int-arsh&show_icons-true" alt="int-arsh">
+<img src="https://github-readme-stats.vercel.app/api?username=int-arsh&show_icons-true" alt="int-arsh">
 </p>
 
 <p align="center">
