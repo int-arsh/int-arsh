@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about <strong>Python, Mysql </strong>
 - 🌱 I'm currently learning <strong>Data Science (Deep learning) </strong>
 - 📫 How to reach me: <a href="www.linkedin.com/in/akash-jain-ds" target="_blank">Akash Jain</a>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username-int-arsh&show_icons-true" alt="int-arsh">
 </p>
+
 <p align="center">
 <a href="www.linkedin.com/in/akash-jain-ds" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
   
