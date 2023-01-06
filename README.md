@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="www.linkedin.com/in/akash-jain-ds" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
   
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
   
 <a href="https://twitter.com/Isotopiea" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
 </p>
