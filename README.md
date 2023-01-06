@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center">
 <a href="www.linkedin.com/in/akash-jain-ds" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a> 
-<a href="https://twitter.com/Isotopiea" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
+<a href="https://twitter.com/Isotopiea" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" height="30" width="30"></a>
 </p>
