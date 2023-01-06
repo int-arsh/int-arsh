@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<hi align="center">Hi there, I am Akash Jain👋 </h1>
+<h1 align="center">Hi there, I am Akash Jain👋 </h1>
 - 💬 Ask me about <strong>Python, Mysql </strong>
 - 🌱 I'm currently learning <strong>Data Science (Deep learning) </strong>
 - 📫 How to reach me: <a href="www.linkedin.com/in/akash-jain-ds" target="_blank">Akash Jain</a>
