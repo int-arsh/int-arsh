@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about <strong>WebDev ML </strong>
 - 📫 How to reach me: <a href="www.linkedin.com/in/akash-jain-ds" target="_blank">Akash Jain</a>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=int-arsh&show_icons-true" alt="int-arsh">
-</p>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center">
 <a href="www.linkedin.com/in/akash-jain-ds" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" height="30" width="30"></a> 
