@@ -21,6 +21,6 @@
 
 ## Links
 
-- Website: 
-- Email: @gmail.com  
+- Website: https://a-shell.vercel.app/
+- Email: jainaakash303@gmail.com  
 - GitHub Repos: See pinned projects below
