@@ -4,7 +4,7 @@
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height=30 width=20/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height=30 width=20/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height=30 width=20/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height=30 width=20/>
           
-          
+[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=int-arsh)](https://github.com/anuraghazra/github-readme-stats)
           
           
           
