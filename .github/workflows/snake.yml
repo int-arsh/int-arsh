@@ -64,6 +64,8 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          since: "2025-03-01"   # Only contributions from this date
+          # until: ${{ github.event.workflow_run.updated_at || 'now' }} # Optional, defaults to t
 
         env:
 
